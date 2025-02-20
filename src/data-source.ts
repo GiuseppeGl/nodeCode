@@ -7,7 +7,7 @@ dotenv.config();
 
 // Costruisci l'URI di connessione con le credenziali
 const username = "LibertyWall";
-const password = encodeURIComponent("wQw5ez6SV.DF%aE"); // Codifica la password per gestire i caratteri speciali
+const password = encodeURIComponent(""); // Codifica la password per gestire i caratteri speciali
 const host = "atlas-sql-67b1efd3976edf15ec3c184d-vtyfd.a.query.mongodb.net";
 const dbName = "sample_mflix";
 
